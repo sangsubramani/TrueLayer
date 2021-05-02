@@ -1,0 +1,9 @@
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\bin\Debug\netstandard2.1\Pokemon.Persistency.deps.json
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\bin\Debug\netstandard2.1\Pokemon.Persistency.dll
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\bin\Debug\netstandard2.1\Pokemon.Persistency.pdb
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.AssemblyInfoInputs.cache
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.AssemblyInfo.cs
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.csproj.CoreCompileInputs.cache
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.dll
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.pdb
+C:\Users\sangeetha.subramani.CAAROOT\source\repos\Pokemon\Pokemon.Persistency\obj\Debug\netstandard2.1\Pokemon.Persistency.csprojAssemblyReference.cache

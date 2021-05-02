@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6ck0ekwdIzKqPPPVu8MFRJ7rnWNUfBhaetc5WCuiMCTG+8lY00xTXIod/GW5/27cyqMxxhX9OXJc6jgekkfRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sangeetha.subramani.CAAROOT\\source\\repos\\Pokemon\\Pokemon\\Pokemon.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}

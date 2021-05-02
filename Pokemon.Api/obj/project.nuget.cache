@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NzoCnmMUkJ4gTDYfEaw3084q/8PuK7MCY5o/U8zbXcDLIJWo6ip85lQcNTXkMtrGkSclFq4y9DVib6MP92PoPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sangeetha.subramani.CAAROOT\\source\\repos\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sangeetha.subramani.CAAROOT\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

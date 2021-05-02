@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\GitCodeBase\\Pokemon\\Pokemon.Tests\\Pokemon.Tests.csproj": {}
+  },
+  "projects": {
+    "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj",
+        "projectName": "Pokemon.Api",
+        "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj",
+        "packagesPath": "C:\\Users\\sangs\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj": {
+                "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj",
+        "projectName": "Pokemon.Persistency",
+        "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj",
+        "packagesPath": "C:\\Users\\sangs\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "Z:\\GitCodeBase\\Pokemon\\Pokemon.Tests\\Pokemon.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Tests\\Pokemon.Tests.csproj",
+        "projectName": "Pokemon.Tests",
+        "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Tests\\Pokemon.Tests.csproj",
+        "packagesPath": "C:\\Users\\sangs\\.nuget\\packages\\",
+        "outputPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sangs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj": {
+                "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Api\\Pokemon.Api.csproj"
+              },
+              "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj": {
+                "projectPath": "Z:\\GitCodeBase\\Pokemon\\Pokemon.Persistency\\Pokemon.Persistency.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
